@@ -1,0 +1,11 @@
+# r3 ignores — python artefacts, local runs and editor droppings
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+output/
+*.log
+.DS_Store
+.idea/
+.vscode/
